@@ -1,3 +1,15 @@
-# React Admin Dashboard Template
+# Admin Dashboard Template
+
+Full Responseve Design 
+
+### Technologies Used:
+
+---
+
+1. React.js
+2. Sass
+ 
+
+![preview](https://i.imgur.com/Fm7acpm.jpeg)
 
    
