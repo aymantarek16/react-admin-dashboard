@@ -7,7 +7,7 @@ Full Responseve Design
 ---
 
 1. React.js
-2. Sass
+2. Css & Scss
  
 
 ![preview](https://i.imgur.com/Fm7acpm.jpeg)
